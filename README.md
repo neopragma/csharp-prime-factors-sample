@@ -2,7 +2,7 @@
 
 This is an annotated reference solution for the Prime Factors kata in C#. 
 
-Then you can run the tests for each step in the kata with these commands: 
+You can run the tests for each step in the kata with these commands: 
 
 ```shell
 dotnet test PrimeFactors.Step1.Fail.Tests
